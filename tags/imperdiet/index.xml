@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>imperdiet on My Blog Site</title>
-    <link>english.hengwong.fun/tags/imperdiet/</link>
+    <link>/tags/imperdiet/</link>
     <description>Recent content in imperdiet on My Blog Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019. First Last</copyright>
     <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="english.hengwong.fun/tags/imperdiet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/imperdiet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bibendum habitant ac luctus</title>
-      <link>english.hengwong.fun/notes/note1/</link>
+      <link>/notes/note1/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>english.hengwong.fun/notes/note1/</guid>
+      <guid>/notes/note1/</guid>
       <description>incididunt aenean Sit sapien posuere condimentum a madssa libero etiam consequat aliqua eget praesent congue. Magna mattis sed curabitur urna etiam fermentum amet id arcu orci. Risus auctor porttitor non enim proin nam aliqua malesuada consequat eleifend dolor. Quis bibendum phasellus fringilla odio aliquam maecenas blandit habitant nulla leo gravida tortor.
 Risus aliqua posuere tellus proin tempus arcu at varius porttitor vitae est. Fames nisi curabitur nam natoque volutpat dolor consequat morbi libero ligula bolestie lorem.</description>
     </item>
